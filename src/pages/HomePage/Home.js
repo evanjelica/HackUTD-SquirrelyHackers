@@ -11,7 +11,6 @@ function Home() {
       <Map />
       <InfoSection {...homeObjFour} />
       <ChatBot/>
-
     </>
   );
 }
