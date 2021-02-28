@@ -1,5 +1,5 @@
 import React from 'react';
-import { InfoSection, Map } from '../../components';
+import { InfoSection, Map } from '../../Components';
 import { homeObjOne, homeObjThree } from './Data';
 
 function SignUp() {
