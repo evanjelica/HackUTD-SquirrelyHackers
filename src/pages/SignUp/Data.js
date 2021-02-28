@@ -3,11 +3,11 @@ export const homeObjOne = {
     lightText: true,
     lightTopLine: true,
     lightTextDesc: true,
-    topLine: 'Sign up Today',
+    topLine: 'Find Help Near You',
     headline: 'Join today to receive an exclusive offer',
     description:
       'Get access to our exclusive diamond king package. Limited quantity available.',
-    buttonLabel: 'Sign Up',
+    buttonLabel: '',
     imgStart: '',
     img: require('../../images/svg-4.svg').default,
     alt: 'Credit Card'

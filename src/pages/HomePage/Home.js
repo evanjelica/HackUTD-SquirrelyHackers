@@ -1,6 +1,6 @@
 import React from 'react';
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
-import { InfoSection, Pricing, Map } from '../../components';
+import { InfoSection, Pricing, Map, ChatBot } from '../../components';
 
 function Home() {
   return (
@@ -10,6 +10,8 @@ function Home() {
       <InfoSection {...homeObjTwo} />
       <Map />
       <InfoSection {...homeObjFour} />
+      <ChatBot/>
+
     </>
   );
 }

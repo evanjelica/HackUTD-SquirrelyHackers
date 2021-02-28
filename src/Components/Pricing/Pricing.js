@@ -26,14 +26,13 @@ function Pricing() {
         <PricingWrapper>
           <PricingHeading>Get Assistance!</PricingHeading>
           <PricingContainer>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/get-started'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiHearts />
                 </PricingCardIcon>
 
                 <PricingCardCost>Food</PricingCardCost>
-                <PricingCardLength>Assistance</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>Unable to get grocceries due to the ice?</PricingCardFeature>
                   <PricingCardFeature>Click here to sign up with</PricingCardFeature>
@@ -42,34 +41,32 @@ function Pricing() {
                 <Button primary>Get Assistance</Button>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/get-started'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiHomeGarage />
                 </PricingCardIcon>
 
                 <PricingCardCost>Home and Auto</PricingCardCost>
-                <PricingCardLength>Assistance</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
+                  <PricingCardFeature>Did your house or</PricingCardFeature>
+                  <PricingCardFeature>car suffer damages?</PricingCardFeature>
                   <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Get Assistance</Button>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/get-started'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiReceiveMoney />
                 </PricingCardIcon>
 
                 <PricingCardCost>Banking</PricingCardCost>
-                <PricingCardLength>Assistance</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
-                  <PricingCardFeature>24/7 Support</PricingCardFeature>
+                  <PricingCardFeature>On a tight budget due</PricingCardFeature>
+                  <PricingCardFeature>to the storm?</PricingCardFeature>
+                  <PricingCardFeature>We can help you get in touch!</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Get Assistance</Button>
               </PricingCardInfo>

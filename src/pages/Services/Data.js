@@ -30,13 +30,13 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Easy Setup',
-    headline: 'Super fast and simple onboarding process',
+    topLine: "It's Easy!",
+    headline: 'Super fast and simple process',
     description:
-      "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-    buttonLabel: 'Start Now',
+      "Have any questions or need some help?",
+    buttonLabel: 'Just click the purple cirlce in the corner',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg').default,
+    img: require('../../images/svg-5.svg').default,
     alt: 'Vault'
   };
   

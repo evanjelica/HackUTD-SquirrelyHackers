@@ -7,7 +7,7 @@ export const homeObjOne = {
     topLine: 'Here to help',
     headline: 'Welcome to the Squirrel Pantry',
     description:
-      'In February 2021, hundreds of thousands of Texans were left without power and water after getting hit by a sudden snowstorm. Our goal is to help those affected by the ice and cold',
+      'In February 2021, hundreds of thousands of Texans were left without power and water after getting hit by a sudden snowstorm. Our goal is to help those affected by the harsh weather.',
     buttonLabel: 'Get Started',
     imgStart: '',
     img: require('../../images/svg-1.svg').default,
@@ -21,7 +21,7 @@ export const homeObjOne = {
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Find Help',
+    topLine: 'Find Help Near You',
     headline: 'Extremely quick onboarding process',
     description:
       "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
