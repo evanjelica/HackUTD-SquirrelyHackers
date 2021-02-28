@@ -34,7 +34,7 @@ export const homeObjOne = {
     headline: 'Super fast and simple process',
     description:
       "Have any questions or need some help?",
-    buttonLabel: 'Just click the purple cirlce in the corner',
+    buttonLabel: 'Just click the cirlce in the corner',
     imgStart: 'start',
     img: require('../../images/svg-5.svg').default,
     alt: 'Vault'
