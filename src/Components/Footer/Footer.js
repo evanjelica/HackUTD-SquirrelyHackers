@@ -25,7 +25,7 @@ function Footer() {
             Squirrel Pantry
           </SocialLogo>
 
-          <WebsiteRights>Squirrel Pantry 2021 © All Rights Reserved.</WebsiteRights>
+          <WebsiteRights>Squirrel Pantry HackUTD 2021 © All Rights Reserved.</WebsiteRights>
           <SocialIcons>
 
             <SocialIconLink href='https://github.com/evanjelica/HackUTD-SquirrelyHackers' target='_blank' aria-label='Facebook'>
