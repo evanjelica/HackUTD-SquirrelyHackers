@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { FaMagento, GiSquirrel } from 'react-icons/gi';
+import { GiSquirrel } from 'react-icons/gi';
 import { Link } from 'react-router-dom';
 
 export const FooterContainer = styled.div`

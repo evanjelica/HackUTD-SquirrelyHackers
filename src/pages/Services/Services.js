@@ -1,6 +1,6 @@
 import React from 'react';
 import { InfoSection, Pricing } from '../../Components';
-import { homeObjOne, homeObjThree } from './Data';
+import { homeObjThree } from './Data';
 
 function Services() {
   return (

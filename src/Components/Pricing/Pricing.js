@@ -1,6 +1,5 @@
 import React from 'react';
 import { Button } from '../../globalStyles';
-import { AiFillThunderbolt } from 'react-icons/ai';
 import { GiReceiveMoney, GiHearts } from 'react-icons/gi';
 import { GiHomeGarage } from 'react-icons/gi';
 import { IconContext } from 'react-icons/lib';
@@ -12,9 +11,7 @@ import {
   PricingCard,
   PricingCardInfo,
   PricingCardIcon,
-  PricingCardPlan,
   PricingCardCost,
-  PricingCardLength,
   PricingCardFeatures,
   PricingCardFeature
 } from './Pricing.elements';

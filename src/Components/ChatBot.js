@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 
 class ChatBot extends Component {
-  constructor(props) {
-    super(props);
-  }
+
   componentDidMount() {
     (function(d, m){
       var kommunicateSettings = 
