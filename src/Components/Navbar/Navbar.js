@@ -66,11 +66,11 @@ function Navbar() {
               </NavItem>
               <NavItemBtn>
                 {button ? (
-                  <NavBtnLink to='/sign-up'>
-                    <Button primary>SIGN UP</Button>
+                  <NavBtnLink to='/get-started'>
+                    <Button primary>Get Started</Button>
                   </NavBtnLink>
                 ) : (
-                  <NavBtnLink to='/sign-up'>
+                  <NavBtnLink to='/get-started'>
                     <Button onClick={closeMobileMenu} fontBig primary>
                       SIGN UP
                     </Button>

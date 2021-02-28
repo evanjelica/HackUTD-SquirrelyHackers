@@ -9,7 +9,7 @@ export const homeObjOne = {
       'Get access to our exclusive diamond king package. Limited quantity available.',
     buttonLabel: 'Sign Up',
     imgStart: '',
-    img: require('../../images/svg-2.svg'),
+    img: require('../../images/svg-4.svg').default,
     alt: 'Credit Card'
   };
   
@@ -39,7 +39,7 @@ export const homeObjOne = {
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/svg-1.svg').default,
     alt: 'Vault'
   };
   
@@ -54,6 +54,6 @@ export const homeObjOne = {
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: require('../../images/svg-1.svg'),
+    img: require('../../images/svg-1.svg').default,
     alt: 'Vault'
   };
