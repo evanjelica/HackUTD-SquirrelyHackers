@@ -22,9 +22,9 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Find Help Near You',
-    headline: 'Extremely quick onboarding process',
+    headline: 'Easy and quick process',
     description:
-      "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+      "We have a team of volunteers and specialist who will reach out to you and get you set up in minutes.",
     buttonLabel: 'Learn More',
     imgStart: '',
     img: require('../../images/svg-2.svg').default,
@@ -60,7 +60,7 @@ export const homeObjOne = {
     headline: 'All your data is stored on our secure server',
     description:
       'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-    buttonLabel: 'Sign Up Now',
+    buttonLabel: 'Get started!',
     imgStart: 'start',
     img: require('../../images/svg-3.svg').default,
     alt: 'Vault',
